@@ -1,2 +1,4 @@
-# ShanDaXueYuan
+# ProjectName
 【上海杉达学院-2024秋】开源创新思维实践
+# Use
+用于提交实训作业
