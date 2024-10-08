@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/43f80a0f-9897-4799-86bf-dcdb2b06fd1e)# 开源文化导论课程
+# 开源文化导论课程
 
 ## 一、课程说明
 
@@ -118,7 +118,8 @@ QQ、微信、邮件等开设答疑课。
 
 2、10-20分钟的结课答辩。
 
-## 五、教学方法
+## 五、教学参考资料及网站
+
 1、FIT2CLOUD飞致云：https://fit2cloud.com/；
 
 2、1Panel 网站：https://1panel.cn/docs/；
